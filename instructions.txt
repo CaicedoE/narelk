@@ -1,0 +1,9 @@
+----------------------------------------------------------------->>
+— Reminder —————————————————------------------------------------->>
+Do not forget to add to .bashrc the follwing line a the end:
+
+/# EC Adding StarShip Shell
+eval “$(startship init bash)"
+
+and source the file.
+---------------------------------------------------------------->>
